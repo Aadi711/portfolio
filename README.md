@@ -6,7 +6,6 @@ Android-Projects:
 ·Perdesi Cargo App (https://play.google.com/store/apps/details?id=com.perdesi.perdesicargo)
 ·Dewsy App (https://play.google.com/store/apps/details?id=com.mega.dewsy)
 ·Zoom Books App (https://play.google.com/store/apps/details?id=co.technolyte.zoombooks)
-·Cirou User App (https://play.google.com/store/apps/details?id=com.cirou.client)
 
 Flutter-Projects:
 
